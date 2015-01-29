@@ -1,0 +1,26 @@
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\emotion_viewer.cs\bin\x64\Debug\emotion_viewer.cs.exe
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\emotion_viewer.cs\bin\x64\Debug\emotion_viewer.cs.pdb
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\emotion_viewer.cs\bin\x64\Debug\libpxcclr.cs.dll
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs_vs2010-13.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.MainForm.resources
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.Properties.Resources.resources
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs_vs2010-13.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.exe
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.pdb
+O:\unix\projects\instr\production5\research\Francis\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.exe
+O:\unix\projects\instr\production5\research\Francis\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.pdb
+O:\unix\projects\instr\production5\research\Francis\emotion_viewer.cs\bin\x64\Debug\emotion_viewer.cs.exe
+O:\unix\projects\instr\production5\research\Francis\emotion_viewer.cs\bin\x64\Debug\emotion_viewer.cs.pdb
+O:\unix\projects\instr\production5\research\Francis\emotion_viewer.cs\bin\x64\Debug\libpxcclr.cs.dll
+O:\unix\projects\instr\production5\research\Francis\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs_vs2010-13.csprojResolveAssemblyReference.cache
+O:\unix\projects\instr\production5\research\Francis\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.MainForm.resources
+O:\unix\projects\instr\production5\research\Francis\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.Properties.Resources.resources
+O:\unix\projects\instr\production5\research\Francis\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs_vs2010-13.csproj.GenerateResource.Cache
+E:\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.exe
+E:\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.pdb
+E:\emotion_viewer.cs\bin\x64\Debug\emotion_viewer.cs.exe
+E:\emotion_viewer.cs\bin\x64\Debug\emotion_viewer.cs.pdb
+E:\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs_vs2010-13.csprojResolveAssemblyReference.cache
+E:\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.MainForm.resources
+E:\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.Properties.Resources.resources
+E:\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs_vs2010-13.csproj.GenerateResource.Cache
